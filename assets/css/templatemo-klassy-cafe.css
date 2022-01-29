@@ -1285,7 +1285,7 @@ reservation
   box-shadow: none;
   border: none;
   display: inline-block;
-  border-radius: 3px;
+  border-radius: 30px;
   font-weight: 600;
   transition: all .3s;
 }
