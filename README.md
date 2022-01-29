@@ -1,2 +1,2 @@
-# restaurante.github.io
-Es un template
+# Thesands.github.io
+This is our template
