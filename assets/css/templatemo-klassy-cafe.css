@@ -637,6 +637,7 @@ banner
   height: 100%;
 }
 .sands-h4 {
+  text-align: center;
   font-family: 'Dancing Script', cursive;
   color: white;
   font-size: 48px;
@@ -656,7 +657,7 @@ banner
 }
 
 #top .left-content h4 {
-  text-align: center;
+  
   font-family: 'Dancing Script', cursive;
   color: #fff;
   font-size: 54px;
@@ -664,6 +665,7 @@ banner
 }
 
 .sands-h6 {
+  align-items: center;
   text-align: center;
   font-size: 10px;
   text-transform: uppercase;
