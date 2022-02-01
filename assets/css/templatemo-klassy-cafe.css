@@ -636,6 +636,17 @@ banner
   width: 100%;
   height: 100%;
 }
+.sands-h4 {
+  font-family: 'Dancing Script', cursive;
+  color: white;
+  font-size: 48px;
+  font-weight: 700;
+}
+@media (min-width: 900px) {
+  .sands-h4 {
+    font-size: 75px;
+  }
+}
 
 #top .left-content .inner-content {
   position: absolute;
@@ -645,19 +656,26 @@ banner
 }
 
 #top .left-content h4 {
+  text-align: center;
   font-family: 'Dancing Script', cursive;
   color: #fff;
   font-size: 54px;
   font-weight: 700;
 }
 
-#top .left-content h6 {
-  font-size: 15px;
+.sands-h6 {
+  text-align: center;
+  font-size: 10px;
   text-transform: uppercase;
   font-weight: 600;
   color: #fff;
   letter-spacing: 3px;
   margin-top: 5px;
+}
+@media (min-width: 900px) {
+  .sands-h6 {
+    font-size: 15px;
+  }
 }
 
 #top .left-content .main-white-button  {
