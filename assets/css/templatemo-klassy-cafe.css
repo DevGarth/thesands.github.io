@@ -1659,3 +1659,8 @@ responsive
     opacity: 0;
   }
 }
+
+.zero-px{
+  padding-right: 0px!important;
+  padding-left: 0px!important;
+}
