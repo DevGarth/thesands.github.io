@@ -486,6 +486,7 @@ header
 
 .header-area.header-sticky {
   min-height: 80px;
+  background-color: white!important;
 }
 
 .header-area .nav {
